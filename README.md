@@ -27,7 +27,7 @@ A passionate Computer Applications student dedicated to mastering software devel
 
 ## GitHub Status & Performance
 
-<div align="Center">
+<div >
 <a href="https://github.com/dpshkhkoirala/githubstatus">
   <img src="https://github.com/dpshkhkoirala/githubstatus/blob/master/generated/overview.svg" />
   <img src="https://github.com/dpshkhkoirala/githubstatus/blob/master/generated/languages.svg" />
