@@ -25,6 +25,14 @@ A passionate Computer Applications student dedicated to mastering software devel
 
 ---
 
+## GitHub Status & Performance
+
+![Dipshikha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipshikhakoirala&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshikhakoirala&layout=compact&theme=radical)
+
+---
+
 ## TU BCA Academic Focus
 
 ### Core Modules
