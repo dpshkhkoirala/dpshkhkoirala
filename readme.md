@@ -2,10 +2,10 @@
 ### BCA Student | Himalaya Darshan College, Biratnagar
 #### Affiliated with Tribhuvan University (TU)
 
-[![Follow](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Star](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name)
+[![Follow](https://img.shields.io/github/followers/dipshikhakoirala?label=Follow&style=social)](https://github.com/dipshikhakoirala)
+[![Stars](https://img.shields.io/github/stars/dipshikhakoirala?style=social)](https://github.com/dipshikhakoirala)
 
-A passionate Computer Applications student dedicated to mastering software development, Artificial Intelligence, and Embedded Systems. Currently pursuing academic excellence at Himalaya Darshan College.
+A passionate Computer Applications student dedicated to mastering software development, Artificial Intelligence, and Embedded Systems. Currently pursuing academic excellence at Himalaya Darshan College, Biratnagar.
 
 ---
 
