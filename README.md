@@ -33,22 +33,6 @@ A passionate Computer Applications student dedicated to mastering software devel
 
 ---
 
-## TU BCA Academic Focus
-
-### Core Modules
-* Data Structures and Algorithms (DSA)
-* Database Management System (DBMS)
-* Web Technology (I & II)
-* Software Engineering
-* System Analysis and Design
-
-### Specializations & Electives
-* **Artificial Intelligence:** Logic programming, search algorithms, and neural network foundations.
-* **Embedded Systems:** Microprocessor architecture, 8085/8086 programming, and hardware interfacing.
-* **Network Security:** Cryptography and secure communication protocols.
-
----
-
 ## Contact & Socials
 * **LinkedIn:** https://www.linkedin.com/in/dipshikha-koirala
 * **Email:** dipshikha.koirala@email.com
