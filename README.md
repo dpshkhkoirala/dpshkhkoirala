@@ -27,9 +27,15 @@ A passionate Computer Applications student dedicated to mastering software devel
 
 ## GitHub Status & Performance
 
-![Dipshikha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipshikhakoirala&show_icons=true&theme=radical)
+<div align="Center">
+<!-- <a href="">
+  <img src="" />
+  <img src="" />
+</a> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshikhakoirala&layout=compact&theme=radical)
+  <img src="https://github.com/dpshkhkoirala/githubstatuscomponents/blob/main/assets/Streaks/streak-github.svg?raw=true" alt="GitHub Streak" />
+ 
+</div>
 
 ---
 
