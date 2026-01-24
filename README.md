@@ -37,8 +37,8 @@ A passionate Computer Applications student dedicated to mastering software devel
 <a href="https://github.com/dpshkhkoirala/githubstatus">
   <img src="https://github.com/dpshkhkoirala/githubstatus/blob/master/generated/overview.svg" />
   <img src="https://github.com/dpshkhkoirala/githubstatus/blob/master/generated/languages.svg" />
-  <img src="https://github.com/dpshkhkoirala/githubstatuscomponents/blob/main/assets/Streaks/streak-github.svg?raw=true" alt="GitHub Streak" />
 </a> 
+  <img src="https://github.com/dpshkhkoirala/githubstatuscomponents/blob/main/assets/Streaks/streak-github.svg?raw=true" alt="GitHub Streak" />
 </div>
 
 ---
