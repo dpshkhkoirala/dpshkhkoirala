@@ -3,11 +3,11 @@
 #### Affiliated with Tribhuvan University (TU)
 
 <div align="center">
-  <a href="https://github.com/dipshikhakoirala">
-    <img src="https://img.shields.io/github/followers/dipshikhakoirala?label=Follow%20Me&style=for-the-badge&color=24292e&logo=github&logoColor=white" alt="Follow">
+  <a href="https://github.com/dpshkhkoirala?tab=followers">
+    <img src="https://img.shields.io/github/followers/dpshkhkoirala?label=Follow%20Me&style=for-the-badge&color=24292e&logo=github&logoColor=white" alt="Follow">
   </a>
-  <a href="https://github.com/dipshikhakoirala">
-    <img src="https://img.shields.io/github/stars/dipshikhakoirala?label=Star%20Repo&style=for-the-badge&color=f39c12&logo=github&logoColor=white" alt="Stars">
+  <a href="https://github.com/dpshkhkoirala">
+    <img src="https://img.shields.io/github/stars/dpshkhkoirala?label=Star%20Repo&style=for-the-badge&color=f39c12&logo=github&logoColor=white" alt="Stars">
   </a>
 </div>
 
