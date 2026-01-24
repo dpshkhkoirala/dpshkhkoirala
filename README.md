@@ -2,8 +2,14 @@
 ### BCA Student | Himalaya Darshan College, Biratnagar
 #### Affiliated with Tribhuvan University (TU)
 
-[![Follow](https://img.shields.io/github/followers/dipshikhakoirala?label=Follow&style=social)](https://github.com/dipshikhakoirala)
-[![Stars](https://img.shields.io/github/stars/dipshikhakoirala?style=social)](https://github.com/dipshikhakoirala)
+<div align="center">
+  <a href="https://github.com/dipshikhakoirala">
+    <img src="https://img.shields.io/github/followers/dipshikhakoirala?label=Follow%20Me&style=for-the-badge&color=24292e&logo=github&logoColor=white" alt="Follow">
+  </a>
+  <a href="https://github.com/dipshikhakoirala">
+    <img src="https://img.shields.io/github/stars/dipshikhakoirala?label=Star%20Repo&style=for-the-badge&color=f39c12&logo=github&logoColor=white" alt="Stars">
+  </a>
+</div>
 
 A passionate Computer Applications student dedicated to mastering software development, Artificial Intelligence, and Embedded Systems. Currently pursuing academic excellence at Himalaya Darshan College, Biratnagar.
 
@@ -46,3 +52,5 @@ A passionate Computer Applications student dedicated to mastering software devel
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+---
